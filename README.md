@@ -10,10 +10,9 @@ compose from selected elements except mainly noise elements by inverse Wavelet t
 ```
 python3 wavelet1.py   
 ```
-<br />
+
 ![example1](samplewav1.png)  
-  
-<br />
+
 ![example2](samplewav2.png)  
 
 
